@@ -1,6 +1,3 @@
 # CSE544_FinalProject
-COVID-19
-Aim is to create separate notebooks for each purpose and keep adding them to the repo. 
-We will finally merge the individual notebooks to form a consolidated submission. 
 
-Keep changing the README as new files keep getting added, if required. 
+Proposed and tested hypotheses related to COVID and Crime data in Denver using Z-test, Chi-square, K-S, Permutation, Wald’s test. Performed time series analysis using Python libraries including Pandas, Numpy.
